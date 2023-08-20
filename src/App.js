@@ -55,7 +55,7 @@ setresult(result.slice(0,result.length-1));
         <button name="0" onClick={handleClick}>0</button>
         <button name="." onClick={handleClick}>.</button>
         <button  onClick={equal} id="equal">=</button>
-        
+        {/* all done */}
       </div>
 
 </div>
